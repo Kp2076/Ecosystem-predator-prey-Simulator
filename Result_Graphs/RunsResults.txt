@@ -1,0 +1,39 @@
+=== VALIDATION RESULTS === (Random 100_100)
+
+--- Predator validation ---
+Amblysomus gunningi: 2862 predators matched (average similarity=0.08)
+Craseonycteris thonglongyai: 545 predators matched (average similarity=0.41)
+
+--- Prey validation ---
+Sorex longirostris: 2844 prey matched (average similarity=0.45)
+Artibeus anderseni: 174 prey matched (average similarity=0.21)
+
+=== VALIDATION RESULTS === (200_20_100_100)
+
+--- Predator validation ---
+No predators were tracked or survived.
+
+--- Prey validation ---
+Sorex longirostris: 66 prey matched (average similarity=0.21)
+Sorex trowbridgii: 14 prey matched (average similarity=0.08)
+Sturnira mordax: 13 prey matched (average similarity=0.05)
+Perognathus flavus: 8 prey matched (average similarity=0.06)
+Baiomys musculus: 8 prey matched (average similarity=0.06)
+Carollia castanea: 8 prey matched (average similarity=0.05)
+Lonchophylla thomasi: 7 prey matched (average similarity=0.06)
+Cryptotis parva: 7 prey matched (average similarity=0.05)
+Sicista napaea: 6 prey matched (average similarity=0.08)
+Sorex vagrans: 5 prey matched (average similarity=0.06)
+Sturnira bidens: 3 prey matched (average similarity=0.04)
+Akodon xanthorhinus: 1 prey matched (average similarity=0.04)
+
+
+=== VALIDATION RESULTS === (Random 50-50)
+
+--- Predator validation ---
+Craseonycteris thonglongyai: 117 predators matched (average similarity=0.31)
+Amblysomus gunningi: 27 predators matched (average similarity=0.16)
+
+--- Prey validation ---
+Sorex longirostris: 396 prey matched (average similarity=0.42)
+Artibeus anderseni: 192 prey matched (average similarity=0.17)
